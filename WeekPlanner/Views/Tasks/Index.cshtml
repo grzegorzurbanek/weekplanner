@@ -1,0 +1,18 @@
+﻿@model IEnumerable<WeekPlanner.Models.Task>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_layout.cshtml";
+}
+<div class="container">
+    <div class="row">
+            <select class="col-xs-8">
+                <option>Praca</option>
+            </select>
+            <button type="button" class="btn btn-default col-xs-4">+</button>
+    </div>
+        @foreach (var item in Model)
+{
+    <button type="button" class="btn btn-default btn-block">@item.Title</button>
+}
+</div>
