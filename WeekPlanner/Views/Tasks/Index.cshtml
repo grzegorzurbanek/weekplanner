@@ -5,14 +5,36 @@
     Layout = "~/Views/_layout.cshtml";
 }
 <div class="container">
+    <div class="row" data-bind="text: Day"></div>
     <div class="row">
             <select class="col-xs-8">
                 <option>Praca</option>
             </select>
             <button type="button" class="btn btn-default col-xs-4">+</button>
     </div>
-        @foreach (var item in Model)
-{
-    <button type="button" class="btn btn-default btn-block">@item.Title</button>
-}
+    <div data-bind="foreach: Tasks">
+        <button type="button" class="btn btn-default btn-block" data-bind="text: Title"></button>
+    </div>
+       
+    
+
 </div>
+
+<script>
+
+    $(document).ready(function () {
+        $.get("Tasks/GetTasks", function (data) {
+            applyData(data),
+            console.log("Data was loaded.");
+        });
+    });
+
+    function applyData(data) {
+        var model = {
+            Day: 'Monday',
+            Tasks: [{ Title : 'Zadanie 11'}, { Title : 'Zadanie 22'}]
+        };
+
+        ko.applyBindings(model);
+    }
+</script>

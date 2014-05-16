@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekPlanner", "WeekPlanner\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekPlanner.Tests", "WeekPlanner.Tests\WeekPlanner.Tests.csproj", "{DD58A5CF-E880-41DE-9F9B-AAB84E6CB72A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockRepository", "MockRepository\MockRepository.csproj", "{60AE390E-A97A-4D62-BD87-F75F54F74677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD58A5CF-E880-41DE-9F9B-AAB84E6CB72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD58A5CF-E880-41DE-9F9B-AAB84E6CB72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD58A5CF-E880-41DE-9F9B-AAB84E6CB72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AE390E-A97A-4D62-BD87-F75F54F74677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AE390E-A97A-4D62-BD87-F75F54F74677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AE390E-A97A-4D62-BD87-F75F54F74677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AE390E-A97A-4D62-BD87-F75F54F74677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

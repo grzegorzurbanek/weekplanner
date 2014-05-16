@@ -26,3 +26,31 @@ c:\users\grzegorz\documents\visual studio 2013\Projects\WeekPlanner\WeekPlanner\
 c:\users\grzegorz\documents\visual studio 2013\Projects\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.csprojResolveAssemblyReference.cache
 c:\users\grzegorz\documents\visual studio 2013\Projects\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.dll
 c:\users\grzegorz\documents\visual studio 2013\Projects\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.pdb
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\WeekPlanner.dll.config
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\WeekPlanner.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\WeekPlanner.pdb
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\Newtonsoft.Json.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Net.Http.Formatting.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Helpers.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Http.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Http.WebHost.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Mvc.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Razor.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.Razor.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\Newtonsoft.Json.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Net.Http.Formatting.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Helpers.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Http.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Http.WebHost.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Mvc.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.Razor.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\bin\System.Web.WebPages.Razor.xml
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\obj\Debug\WeekPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\obj\Debug\WeekPlanner.dll
+C:\Users\Grzegorz\Documents\GitHub\weekplanner\WeekPlanner\obj\Debug\WeekPlanner.pdb

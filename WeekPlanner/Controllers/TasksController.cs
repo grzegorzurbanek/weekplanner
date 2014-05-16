@@ -7,11 +7,8 @@ using WeekPlanner.Models;
 
 namespace WeekPlanner.Controllers
 {
-    public class TasksController : Controller
+    public class TasksController : ControllerBase
     {
-        //
-        // GET: /Tasks/
-
         public ActionResult Index()
         {
             var model = new List<Task>();
@@ -20,5 +17,9 @@ namespace WeekPlanner.Controllers
             return View(model);
         }
 
+        public JsonResult GetTasks()
+        {
+            return GetJsonResult(new { Title = "Zadanie 11" });
+        }
     }
 }
